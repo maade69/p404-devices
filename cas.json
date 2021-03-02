@@ -4,10 +4,10 @@
   "changelog": "Lorem ipsum dolor sit amet",
   "md5": "a3wa132647qe17514ceq",
   "fileSize": "1.2 Gb",
-  "links" : [{
+  "links" : {
       "download": "https://www.lipsum.com/",
       "xda": "https://www.lipsum.com/",
       "supportGroup": "https://www.lipsum.com/",
       "deviceGroup": "https://www.lipsum.com/"
-  }]
+  }
 }
