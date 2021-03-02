@@ -2,13 +2,17 @@
   "version": "4.3",
   "versionName": "RIPPA",
   "publishedDate": "March 2, 2021",
-  "changelog": "Lorem ipsum dolor sit amet",
+  "changelog": [
+      "",
+      "",
+      ""
+  ],
   "md5": "fed323770dceba2c189f1a84f098111a",
   "fileSize": "1217.40 MB",
-  "links" : {
-      "download": "https://www.pling.com/p/1476173/",
-      "xda": "https://www.lipsum.com/",
-      "supportGroup": "https://telegram.me/project_404",
-      "deviceGroup": "https://telegram.me/mi10aosp"
+  "links": {
+    "download": "https://www.pling.com/p/1476173/",
+    "xda": "",
+    "supportGroup": "https://telegram.me/project_404",
+    "deviceGroup": "https://telegram.me/mi10aosp"
   }
 }
