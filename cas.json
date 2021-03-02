@@ -1,18 +1,11 @@
 {
+  "datetime": 1230764400,
+  "filename": "ota-package.zip",
+  "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
+  "romtype": "nightly",
+  "size": 314572800,
+  "url": "https://example.com/ota-package.zip",
   "version": "4.3",
   "versionName": "RIPPA",
-  "publishedDate": "March 2, 2021",
-  "changelog": [
-      "abcd",
-      "efgh",
-      "ijkl"
-  ],
-  "md5": "fed323770dceba2c189f1a84f098111a",
-  "fileSize": "1217.40 MB",
-  "links": {
-    "download": "https://www.pling.com/p/1476173/",
-    "xda": "",
-    "supportGroup": "https://telegram.me/project_404",
-    "deviceGroup": "https://telegram.me/mi10aosp"
-  }
+  "changelog": ["abcd", "efgh", "ijkl"]
 }
